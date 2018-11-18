@@ -3,7 +3,7 @@
 #====================================================================================================
 # NOTE:  the following menu entries are for simple example.  You can change and/or add to them
 #        whatever you need to do.   For instance you could create a Menu Entry (the first text before 
-#        vertical bar/pipe symbol "|".   The "action" is what follows the vertical bar/pipe symple
+#        vertical bar/pipe symbol "|".   The "action" is what follows the vertical bar/pipe symbol
 #        and that could be a command like I show below using "sudo apt-get install" or it could be
 #        a Bash script, Python program etc.
 #
