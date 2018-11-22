@@ -1,4 +1,4 @@
-### Simple GUI Menu script.
+### Simple GUI CheckBox Menu script.
 
 Simple GUI Bash Script using YAD to launch scripts/apps 
 
